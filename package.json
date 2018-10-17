@@ -1,0 +1,13 @@
+{
+  "name": "Big Daddy Bot",
+  "description": "I am a DDLG Discord Server Moderation Bot!",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "request": "2.87.0"
+  }
+}
