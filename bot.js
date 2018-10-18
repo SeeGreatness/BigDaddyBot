@@ -4,7 +4,6 @@ const Discord = require('discord.js');
 //sets
 const client = new Discord.Client();
 const talkedRecently = new Set();
-const client = new Discord.Client();
 //require
 const request = require("request");
 //local require
