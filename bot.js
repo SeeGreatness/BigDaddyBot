@@ -17,11 +17,11 @@ client.on('message', message => {
 client.on('message', message => {
     if (message.content === 'bing') {
     	message.reply('BONG!');
-  	}
+  	}});
 client.on('message', message => {
     if (message.content === 'cheyenne') {
     	message.reply('Emma loves Cheyenne!');
-  	}
+  	}});
 client.on('message', message => {
     if (message.content === 'Emma') {
     	message.reply('Cheyenne loves emma!');
