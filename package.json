@@ -2,7 +2,7 @@
   "name": "Big Daddy Bot",
   "description": "I am a DDLG Discord Server Moderation Bot!",
   "version": "1.0.0",
-  "main": "bot.js",
+  "main": "node test.js",
   "scripts": {
     "start": "node test.js"
   },
